@@ -5,8 +5,8 @@ A twelve-hour line follower hackathon serves as the concluding project for the t
 #### The objective is for the robot to precisely track the line, aiming for the most accurate performance to complete the course. The robot is allowed three attempts to achieve the fastest time.
 
 Team: Powerpuff Girls
-- @lemnaruamedeea
-- @vfranci
+- [@lemnaruamedeea](https://github.com/lemnaruamedeea)
+- [@vfranci](https://github.com/vfranci)
 
 Best time: 17.871
 

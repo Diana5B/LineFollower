@@ -29,6 +29,8 @@ Best time: 17.871
 - Wires (M - F, M - M), zip-ties, screws as needed
 
   For the chassis we cut into a foam board after measuring an apropriate distance between the wheels and for the sensor. We improvised "pockets" for the breadboard and battery and we secured the Arduino board and the motors using zip-ties.
+  </br>
+  </details>
 
 ### Final Track:
 

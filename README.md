@@ -29,6 +29,34 @@ Best time: 17.871
 - Wires (M - F, M - M), zip-ties, screws as needed
 
   For the chassis we cut into a foam board after measuring an apropriate distance between the wheels and for the sensor. We improvised "pockets" for the breadboard and battery and we secured the Arduino board and the motors using zip-ties.
+
+### Driver Connection table
+![driver](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/6ff3e419-10f6-4da1-8ee2-fd11d2852a0a)
+![dreiverconectoins](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/6354afb0-ffa4-4bb5-8aad-238afbf29b6a)
+
+### Motors and Sensor Connection scheme
+![conections](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/13678f93-3829-4d93-b855-fa69145b2a28)
+
+
+  </br>
+  </details>
+
+
+  <details>
+  <summary>
+      <h2>Software implementation</h2>
+  </summary>
+  <br>
+
+  The robot calibrated its sensor by moving left and right in order to recognize the black line it had to follow. The movement behaviour was determined by using a proportional-integrative-derivative controller. We started with a simple code provided by our teacher in which we had to alter the kp, ki, and kd values to achieve the desired movement. We started by assigning random values to the proportional constant in order to observe the behaviour. Once the robot was able to take the turns without overshooting, we began updating the kd value to smooth the wobble.
+
+  The final values were:
+kp = 4.3;
+ki = 0.000;
+kd = 23.2;
+
+Afterwards, we implemented the automatic calibration and juggled the tresholds for the error and motor speed values.
+
   </br>
   </details>
 

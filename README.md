@@ -32,10 +32,13 @@ Best time: 17.871
   </br>
   </details>
 
-### Final Track:
-
-### Setup:
-
-
  ### [Code](https://github.com/Diana5B/LineFollower/blob/main/Line.ino)
- ### [Video]()
+ 
+ ### Final Track:
+### ![track](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/174339b1-8565-4157-9866-2e1dbc4f5054)
+
+ ### Final setup of the robot: 
+### ![Robot](https://github.com/vfranci/Line-Follower/assets/115077321/08085af5-6bf5-4b55-920f-c0e0b4081a76)
+
+ ### Watch the robot on the circuit:
+ ### [Video](https://youtu.be/-rcJyTiLDLg?si=OaZJrGN7fROQkyiY)

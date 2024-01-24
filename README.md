@@ -5,9 +5,8 @@ A twelve-hour line follower hackathon serves as the concluding project for the t
 #### The objective is for the robot to precisely track the line, aiming for the most accurate performance to complete the course. The robot is allowed three attempts to achieve the fastest time.
 
 Team: Powerpuff Girls
-Members:
-@lemnaruamedeea
-@vfranci
+- @lemnaruamedeea
+- @vfranci
 
 Best time: 17.871
 
@@ -28,7 +27,11 @@ Best time: 17.871
 - Medium breadboard
 - Wires (M - F, M - M), zip-ties, screws as needed
 
+## Project and Design Description
   For the chassis we cut into a foam board after measuring an apropriate distance between the wheels and for the sensor. Zip-ties were employed to fasten the breadboard and battery, while we utilized additional zip-ties to secure the Arduino board and motors in place.
+
+  ### Requirements
+Minimum requirements for the project were to have the robot finish the line follower track, including the curved lines. To achieve maximum grade, the course had to be finished in under 20 seconds and, upon starting, the sensor had to be calibrated using automatic motor movement.
 
 ### Driver Connection table
 ![driver](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/6ff3e419-10f6-4da1-8ee2-fd11d2852a0a)
